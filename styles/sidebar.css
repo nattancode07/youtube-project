@@ -16,6 +16,7 @@
     align-items: center;
     flex-direction: column;
     cursor: pointer;
+    margin-left: 8px;
 }
 
 .sidebar-link:hover{
@@ -30,4 +31,11 @@
 .sidebar-link div {
     font-family: Roboto, Arial;
     font-size:10px ;
+    text-align: center;
+}
+
+@media (min-width = 750px)  {
+    .sidebar-link{
+        margin-bottom: 20px;
+    }
 }
