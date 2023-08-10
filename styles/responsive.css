@@ -1,5 +1,5 @@
 
-@media (min-width: 360px) and (max-width: 650px){
+@media (max-width: 650px){
     .video-grid {
         grid-template-columns: 1fr ;
     }
@@ -11,6 +11,16 @@
     body{
         padding-left:0;
         padding-right: 0;
+        padding-top: 42px;
+    }
+
+    .header {
+        height: 42px;
+        justify-content: right;
+    }
+
+    .hamburger-menu {
+        display: none;
     }
 
     .upload-icon-container,
@@ -18,24 +28,70 @@
         display: none;
     }
 
-    .right-section{
-        width: 80px;
-    }
-
-    .middle-section {
-        margin-right: 15px;
-        margin-left: 30px;
-    }
-
-    .hamburger-menu {
-
-        margin-right: 10px;
-        margin-left: 14px;
-        height: 16px;
+    .left-section {
+        margin: 0 10px;
+        flex: 1;
+        justify-content: left;
     }
 
     .youtube-logo {
-        height: 16px;
+        height: 18px;
+    }
+
+    .middle-section {
+        margin: 0 10px 0 0;
+        justify-content: right;
+        max-width: 70px;
+    }
+
+    .search-bar {
+        display: none;
+    }
+
+    .search-button {
+        border-radius: 50%;
+        width: 32px;
+        height: 32px;
+        background-color: white;
+        border: none;
+        margin: 0 auto;
+    }
+
+    .search-icon {
+        height: 20px;
+    }
+
+    .voice-search-button {
+        width: 32px;
+        height: 32px;
+        background-color: white;
+    }
+
+    .voice-search-button:hover{
+        background-color: rgb(245, 245, 245);
+    }
+
+    .search-button:hover{
+        background-color: rgb(245, 245, 245);
+    }
+
+    .right-section{
+        flex: 1;
+        margin: 0;
+        max-width: 100px;
+    }
+
+    .current-user-picture {
+        margin: 0 auto;
+        height: 28px;
+    }
+
+    .thumbnail {
+        border-radius: 0px ;
+    }
+
+    .video-info {
+        margin-right: 5px;
     }
 }
 
