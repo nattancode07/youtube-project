@@ -14,6 +14,7 @@
 - HTML
 - CSS (FlexBox, Grid, Responsividade e etc.)
 
-<br><br>
+<br>
+
 ## 🎯 Link do projeto:
 ### <a target="_blank" href="https://nattancode07.github.io/youtube-project/">https://nattancode07.github.io/youtube-project/</a>
