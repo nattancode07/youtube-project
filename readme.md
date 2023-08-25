@@ -1,3 +1,19 @@
-Este é um projeto que desenvolvi utilizando HTML e CSS em um bootcamp no canal supersimple dev, espero que tenham gostado do resultado, mais adiante estarei melhorando esse projeto com dark mode e responsividade.
+<h1> 
+<img src="youtube-preview.jpeg">
+<br><br>
+<p>Youtube Clone</p>
+</h1>
 
-link do bootcamp: https://www.youtube.com/watch?v=G3e-cpL7ofc&pp=ugMICgJwdBABGAHKBQ5zdXBlcnNpbXBsZWRldg%3D%3D
+## 🚨 Sobre
+
+**Youtube Clone** é um projeto que desenvolvi ao participar de um bootcamp gratuito no youtube do canal supersimpledev. Nele aprendi e relembrei coiceitos importantes de HTML e CSS, como Flexbox, Grid e Positions.
+<br> <br>
+
+## 🔧 Ferramentas
+
+- HTML
+- CSS (FlexBox, Grid, Responsividade e etc.)
+
+<br><br>
+## 🎯 Link do projeto:
+### <a target="_blank" href="https://nattancode07.github.io/youtube-project/">https://nattancode07.github.io/youtube-project/</a>
